@@ -9,13 +9,13 @@ Gaia Chat Interaction Bot
 
 ## BOT FEATURE
 
-- Auto chat completion with your node
+- Auto Chat Completion With Your Node
 - Proxy Support
 
 ## NEW AIRDROP
 
 **AIRDROP - GAIANET AI**
-Earn Points and get positioned for future rewards
+Earn Points and get positioned for future rewards.
 
 **Task Details:**
 - Visit [Here](https://gaianet.ai/)
@@ -38,9 +38,9 @@ Earn Points and get positioned for future rewards
 ## RUN GAIA NODE
 
 System Minimum Requirements
-16GB RAM (32GB recommended)
+16GB RAM (32GB Recommended)
 8GB VRAM on GPU
-Nvidia T4 GPU Instance
+Nvidia T4 GPU Instance.
 
 Setup Guide: [HERE](https://docs.gaianet.ai/getting-started/quick-start/?_gl=1*1nj7df9*_ga*MjAxMzM4ODY2OS4xNzM3MDg0MDM1*_ga_V3W2HJ72V0*MTczNzA4NDAzNC4xLjEuMTczNzA4NDU5OC4wLjAuMA)
 after sucessfully setup :
@@ -75,7 +75,7 @@ gaianet info
    ```
    nano config/config.js
    ```
-4. Run Bot
+4. Run the Bot
    ```
    npm run start
    ```
