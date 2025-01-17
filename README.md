@@ -10,6 +10,7 @@ Gaia Chat Interaction Bot
 ## BOT FEATURE
 
 - Auto chat completion with your node
+- Proxy Support
 
 ## NEW AIRDROP
 
