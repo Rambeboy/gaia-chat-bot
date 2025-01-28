@@ -2,6 +2,8 @@
 
 Gaia Chat Interaction Bot
 
+![logo](assets/img1.jpeg)
+
 **AIRDROP - GAIANET AI**
 
 Earn Points and get positioned for future rewards
