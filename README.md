@@ -2,6 +2,29 @@
 
 Gaia Chat Interaction Bot
 
+**AIRDROP - GAIANET AI**
+
+Earn Points and get positioned for future rewards
+
+**Task Details:**
+
+- Visit [HERE](https://gaianet.ai/)
+- Connect New Wallet
+- Click Start Earning
+- Go to Profile
+- Connect All Socials
+- Complete All Task
+- Done 
+
+**Join Bot Telegram**
+
+[Gaia XP](https://t.me/gaianet_ai_bot/)
+
+- Login bot
+- Complete all task
+- Claim USDTs
+- Done
+
 ## PREREQUISITE
 
 - Git
@@ -12,38 +35,15 @@ Gaia Chat Interaction Bot
 - Auto Chat Completion With Your Node
 - Proxy Support
 
-## NEW AIRDROP
-
-**AIRDROP - GAIANET AI**
-Earn Points and get positioned for future rewards.
-
-**Task Details:**
-- Visit [Here](https://gaianet.ai/)
-- Connect New Wallet
-- Click Start Earning
-- Go to Profile
-- Connect All Socials
-- Complete All Task
-- Done 
-
-**Join Bot Telegram**
-
-[Gaia XP](https://t.me/gaianet_ai_bot/gaia?startapp=eyJ0Z191c2VyX2lkIjoiNjg5NjI0MDQ0MiIsImludml0ZV9jb2RlIjoiUms5bnRGIn0)
-
-- Login bot
-- Complete all task
-- Claim USDTs
-- Done
-
 ## RUN GAIA NODE
 
 System Minimum Requirements
-16GB RAM (32GB Recommended)
+16GB RAM (32GB recommended)
 8GB VRAM on GPU
-Nvidia T4 GPU Instance.
+Nvidia T4 GPU Instance
 
 Setup Guide: [HERE](https://docs.gaianet.ai/getting-started/quick-start/?_gl=1*1nj7df9*_ga*MjAxMzM4ODY2OS4xNzM3MDg0MDM1*_ga_V3W2HJ72V0*MTczNzA4NDAzNC4xLjEuMTczNzA4NDU5OC4wLjAuMA)
-after sucessfully setup :
+After sucessfully setup :
 - Execute
 ```
  curl -sSf https://raw.githubusercontent.com/WasmEdge/WasmEdge/master/utils/install_v2.sh | bash -s -- -v 0.13.5 --noavx
@@ -55,10 +55,12 @@ gaianet stop
 gaianet start
 gaianet info
 ```
-- Open https://www.gaianet.ai/setting/nodes
+- Open [Node Page](https://www.gaianet.ai/setting/nodes)
 - Enter Node ID & Device ID
-- Open https://www.gaianet.ai/setting/gaia-api-keys
+- Open [API Key Page](https://www.gaianet.ai/setting/gaia-api-keys)
 - Create API Key
+- Done
+- Start setup and run bot
 
 ## SETUP & CONFIGURE BOT
 
@@ -67,7 +69,7 @@ gaianet info
    ```
    git clone https://github.com/Rambeboy/gaia-chat-bot.git && cd gaia-chat-bot
    ```
-2. Install Dependencies & Setup Accounts
+2. Install dependencies
    ```
    npm install && npm run setup
    ```
@@ -105,6 +107,11 @@ To update bot follow this step :
 ## IMPORTANT NOTE (READ IT THIS IS NOT DECORATION)
 
 DWYOR & Always use a new wallet when running the bot, I am not responsible for any loss of assets.
+
+
+## CONTRIBUTE
+
+Feel free to fork and contribute adding more feature thanks.
 
 ## LICENSE
 
