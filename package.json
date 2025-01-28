@@ -8,7 +8,7 @@
     "start": "node app/index.js",
     "setup": "node scripts/setup.js",
     "dev": "node index.js",
-    "build" : "rm -rf app && javascript-obfuscator --config build-config.json && cp -r src/core/deployer app/src/core"
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
   "keywords": [
     "gaia-chat",
